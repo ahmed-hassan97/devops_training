@@ -10,6 +10,7 @@ def print_hi(name):
     print("you add database connection")
     print("solving issue in Feature1")
     print("i change some modified")
+    print("you test branch main with stach data")
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
