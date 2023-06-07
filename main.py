@@ -9,6 +9,7 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print("you add database connection")
     print("solving issue in Feature1")
+    print("i change some modified")
     print("you test branch main with stach data")
 
 # Press the green button in the gutter to run the script.
